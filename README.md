@@ -1,4 +1,2 @@
 stdlib
 ======
-
-Rainers repo
